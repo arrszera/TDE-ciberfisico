@@ -43,6 +43,7 @@ O projeto consiste em:
 ## 📁 Estrutura do Repositório
 
 - `dhd22.c`: código para leitura do sensor de temperatura e umidade.
+- `index.c`: página onde é rodado a versão integrada e final do código.
 - `momento.c`: funções auxiliares do sistema.
 - `testeBuzzer.c`: código de teste para acionamento de um buzzer.
 - `index.html`: interface web para exibição dos dados monitorados.
